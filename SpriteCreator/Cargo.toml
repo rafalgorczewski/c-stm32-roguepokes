@@ -1,0 +1,8 @@
+[package]
+name = "spritecreator"
+version = "0.1.0"
+authors = ["Rafał Górczewski <rafalgorczewski@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+image = "*"
